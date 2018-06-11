@@ -20,7 +20,7 @@
         "symfony/process": "~2.3|~3.0|^4.0",
         "sensiolabs/security-checker": "~3.0|~4.0"
     },
-    "conflict": {
+    "replace": {
         "sensio/distribution-bundle": "*"
     },
     "autoload": {
